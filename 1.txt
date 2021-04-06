@@ -13,3 +13,4 @@ branch2
 
 teste 1
 branch3 1
+branch3 2
